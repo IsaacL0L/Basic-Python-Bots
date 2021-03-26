@@ -1,2 +1,3 @@
 # Basic-Python-Bots
-read the title
+e
+# All of these took like 2 seconds to make 
