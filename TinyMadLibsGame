@@ -1,0 +1,9 @@
+
+color = input("Enter a color:")
+an_object = input("Enter a object:")
+person = input("Enter a person:")
+
+print("Roses are" + color)
+print( an_object + "are blue")
+print("I love" + person)
+
